@@ -8,7 +8,7 @@ class App extends Component {
     super(props);
     this.state = {
       fullName: "Hamza Ayechi",
-      bio: "Student at Isitcom Hammem-Aousse and Go My Code student",
+      bio: "Student at Isitcom Hammem-Sousse and Go My Code student",
 
       profession: "Futur Web Developer ",
       show: true,
